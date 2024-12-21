@@ -1,7 +1,7 @@
 import React from "react";
-import TimeLine from "../componenets/timeLine";
-import Layout from "../componenets/layout";
-import History from "../componenets/hestory";
+import TimeLine from "../components/timeLine";
+import Layout from "../components/layout";
+import History from "../components/hestory";
 
 const About = () => {
   return (

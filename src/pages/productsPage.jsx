@@ -1,6 +1,6 @@
 import React from "react";
-import Layout from "../componenets/layout";
-import Products from "../componenets/products";
+import Layout from "../components/layout";
+import Products from "../components/products";
 
 const ProductsPage = () => {
   return (
